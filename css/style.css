@@ -81,6 +81,7 @@ input{
     /* display: flex; */
     padding: 20px;
     min-width: 200px;
+    padding-left: 50px;
   
     
 }
@@ -124,7 +125,7 @@ input{
 }
 .question-content .box{
     padding: 2px 20px  ;
-    width: 80%;
+    width: 50%;
     background-color: rgb(29, 28, 28);
     margin: 0px auto;
     color: white;
