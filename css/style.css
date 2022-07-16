@@ -44,11 +44,12 @@ header{
 .content{
     width: 80%;
     margin: 0px auto;
+
 }
 .content h1{
     color: white;
     text-align: center;
-    font-size: 60px;
+    font-size: 40px;
     margin-top: 250px;
     margin-bottom: 0px;
     
@@ -60,6 +61,7 @@ header{
     text-align: center;
     font-size: 20px;
     font-weight: bold;
+
 }
 input{
     width: 40%;
@@ -115,7 +117,50 @@ input{
 }
 
 
-.clear{
-    clear: both;
+.question-content h1{
+    font-size: 50px;
+    color: white;
+    text-align: center;
 }
+.question-content .box{
+    padding: 2px 20px  ;
+    width: 80%;
+    background-color: rgb(29, 28, 28);
+    margin: 0px auto;
+    color: white;
+}
+.call p{
+    color: white;
+    text-align: center;
+    font-size:20px ;
+}
+.question-content button{
+    background-color: rgb(230, 42, 42);
+    padding: 15px 50px;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+.question-content input{
+    width: 80%;
+    margin: 0px auto;
+}
+.footer-content{
+    width: 80%;
+    margin: 0px auto;
+    color: white;
+    padding: 20px 0px 30px 0px ;
+}
+.bars{
+   
+    display: flex;
+    width:80%;
+    margin: 0px auto;
+    color: white;
+     justify-content: space-between;
+}
+footer{
+    background-color: black;
+}
+   
 
